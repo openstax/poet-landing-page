@@ -1,0 +1,7 @@
+title: POET - Professional Editing Tool
+
+exclude:
+  - README.md
+  - tools.md
+  - Gemfile
+  - Gemfile.lock
