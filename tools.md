@@ -7,4 +7,4 @@ Coming soon...
 ## Useful links
 
 * [CORGI](http://corgi.openstax.org/)
-* [ABL](https://github.com/openstax/content-manager-approved-books/blob/master/approved-book-list.json)
+* [ABL](https://github.com/openstax/content-manager-approved-books/blob/main/approved-book-list.json)
